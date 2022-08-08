@@ -10,6 +10,6 @@
 * ...
 
 ### Screen shot:
-![DDT & TDD with JUnit](https://github.com/nguoilangchai/math-util/blob/main/views/DDT%20with%20JUnit.png)
+![DDT & TDD with JUnit](https://github.com/nguoilangchai/mathutil-junit5/blob/main/images/DDT_Maven_CI_Image.PNG)
 
 © 2022 nguoilangchai | www.facebook.com/nguoilangchaii/
